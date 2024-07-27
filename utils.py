@@ -133,7 +133,7 @@ def clean_data():
 
 def screenshot(url, path):
     if 'example123abchelloworlddef.net.in' in url or 'exampleabc.com' in url:
-        embed1, embed2 = embeddings('pages/data/test/google.png')
+        embed1, embed2 = embeddings('pages/data/test/test.png')
     else:
         webbrowser.open_new_tab(url)
         time.sleep(10)

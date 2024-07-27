@@ -21,7 +21,7 @@ How to run it? Well, that's pretty easy.
 1.  To use the application, simply double click on the 'app' file to open the website. The initial load time is around 1 to 2 minutes so please excuse the app for the delay.
 2.  To check if any website is legitimate or not, enter the url of the suspicious website in the first text field, and viola, there's our predictions.
 3.  If you feel that the suspicious website is mimicking a website, you can also enter the legitimate website along with the suspicious website in the second text field, and that can give you results of comparisions between both of those websites too. This will also update the datasets and models, contributing to better performance of the application over time.
-
+4.  To test out the application, you can use either "example123abchelloworlddef.net.in" or "exampleabc.com" as URL inputs in the first text field. It is a dummy URL that has SBI homepage snapshot path hardcoded, so the application assumes these to be phishing websites. 
 --ALSO...this is just an experimental approach we have achieved, so please feel free to use/upgrade this work!--
 
 And there's that. This is our take on Phishing Website Detection using ML and Image Embeddings. For people who are interested in this domain, feel free to use our work for reference or even develop on it. Thank you.
